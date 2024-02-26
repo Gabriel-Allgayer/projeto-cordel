@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body {
+
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+section {
+    background-color: white;
+
+}
+
+article {
+    color: black;
+    
+}
+.letrabranca {
+    color: white;
+    border: 1px solid rgba(128, 128, 128, 0.527);
+
+}
+
+#transparente1 {
+    background-color: rgba(128, 128, 128, 0.527);
+    background-image: url(imagens/background001.jpg);
+}
+
+#transparente2 {
+    background-color: rgba(128, 128, 128, 0.527);
+    background-image: url(imagens/background002.jpg);
+}
+footer {
+    background-color: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    font-size: bolder;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
